@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6381f558-cc96-4285-9b50-b3856a7c7855" name="Changes" comment="Added the structure of the microservice">
+      <change afterPath="$PROJECT_DIR$/../CKBApplicationServer/src/main/java/BersaniChiappiniFraschini/CKBApplicationServer/group/EvaluationType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CKBApplicationServer/src/main/java/BersaniChiappiniFraschini/CKBApplicationServer/battle/BattleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CKBApplicationServer/src/main/java/BersaniChiappiniFraschini/CKBApplicationServer/battle/BattleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CKBApplicationServer/src/main/java/BersaniChiappiniFraschini/CKBApplicationServer/githubManager/GitHubController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CKBApplicationServer/src/main/java/BersaniChiappiniFraschini/CKBApplicationServer/githubManager/GitHubController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CKBApplicationServer/src/main/java/BersaniChiappiniFraschini/CKBApplicationServer/group/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CKBApplicationServer/src/main/java/BersaniChiappiniFraschini/CKBApplicationServer/group/Group.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2bHPP7EsTee15xWEcCobX32WUA4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/michelebersani/Desktop/Università_politecnico/MAGISTRALE/ANNO_1/SW2/PROGETTO/MyFORK/AuthenticationService&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2616452&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;e9e92b05087c1f8cff56ca91ed4d6572&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mongo&quot;,
+      &quot;mysql&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect&quot;: [
+      &quot;MySQL&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docker/server" />
+      <recent name="$PROJECT_DIR$/docker/database" />
+      <recent name="$PROJECT_DIR$/docker" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="BersaniChiappiniFraschini.AuthenticationService" />
+      <recent name="com.example.demo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AuthenticationServiceApplication">
+    <configuration name="AuthenticationServiceApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AuthenticationService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BersaniChiappiniFraschini.AuthenticationService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BersaniChiappiniFraschini.AuthenticationService" />
+      <option name="MAIN_CLASS_NAME" value="BersaniChiappiniFraschini.AuthenticationService.AuthenticationServiceApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthenticationServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="AuthenticationService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="BersaniChiappiniFraschini.AuthenticationService.AuthenticationServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="AuthenticationService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="BersaniChiappiniFraschini.AuthenticationService.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="database: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker/database/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="database/Dockerfile (1)" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildOnly" value="true" />
+          <option name="sourceFilePath" value="docker/database/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="database/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="docker/database/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.database: Compose Deployment" />
+        <item itemvalue="Docker.database/Dockerfile (1)" />
+        <item itemvalue="Docker.database/Dockerfile" />
+        <item itemvalue="Docker.docker: Compose Deployment" />
+        <item itemvalue="JUnit.AuthenticationServiceApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6381f558-cc96-4285-9b50-b3856a7c7855" name="Changes" comment="" />
+      <created>1705869004307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705869004307</updated>
+      <workItem from="1705869005720" duration="1048000" />
+      <workItem from="1705945286003" duration="9298000" />
+      <workItem from="1706006136550" duration="685000" />
+      <workItem from="1706023077693" duration="3790000" />
+      <workItem from="1706027437853" duration="1354000" />
+      <workItem from="1706032344918" duration="2229000" />
+      <workItem from="1706043730181" duration="532000" />
+      <workItem from="1706200203050" duration="4862000" />
+      <workItem from="1706208958934" duration="291000" />
+      <workItem from="1706209425015" duration="1657000" />
+      <workItem from="1706217929880" duration="1553000" />
+      <workItem from="1706219864650" duration="576000" />
+      <workItem from="1706260379947" duration="4615000" />
+      <workItem from="1706265196066" duration="4443000" />
+      <workItem from="1706270547381" duration="7714000" />
+      <workItem from="1706302902164" duration="681000" />
+      <workItem from="1706361870089" duration="4594000" />
+      <workItem from="1706370352644" duration="108000" />
+      <workItem from="1706370525713" duration="1927000" />
+      <workItem from="1706431763230" duration="3250000" />
+      <workItem from="1706479247461" duration="469000" />
+      <workItem from="1706518702924" duration="1015000" />
+      <workItem from="1706526464090" duration="2813000" />
+      <workItem from="1706554792972" duration="1789000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added the structure of the microservice">
+      <created>1705950321704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705950321704</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the structure of the microservice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the structure of the microservice" />
+  </component>
+</project>
